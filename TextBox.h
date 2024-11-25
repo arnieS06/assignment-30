@@ -4,8 +4,8 @@
 using namespace std;
 
 class TextBox {
-	TextBox(string text);
 public:
+	TextBox(string text);
 	string getString();
 	void setString(string text);
 
